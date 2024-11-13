@@ -39,11 +39,9 @@ The bot uses different colors for different types of messages:
 ```bash
 npm install discord.js
 ```
-3. Create a `config.json` file:
+3. Create a `.env` file:
 ```json
-{
-    "token": "your-bot-token-here"
-}
+TOKEN = your-bot-token-here
 ```
 4. Start the bot: 
 ```bash
